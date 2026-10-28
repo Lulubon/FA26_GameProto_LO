@@ -1,5 +1,3 @@
 # FA26_GameProto_LO
 
-Developed with Unreal Engine 5
-
-Project for art 455a
+Game prototype for ART 455A, Fall 2026
